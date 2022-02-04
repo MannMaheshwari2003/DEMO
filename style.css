@@ -1,0 +1,18 @@
+li{
+    list-style: none;
+    font-size: larger;
+    margin-top: 2rem;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 80px;
+    font: size 20px;;
+}
+.fixer{
+    font-size: larger;
+    margin-left: 1rem;
+    margin-top: 40px;
+    
+}
+
